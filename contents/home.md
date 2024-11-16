@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/QingpengLi-github-blue?logo=github)](https://github.com/Qingpeng-Li)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He received his Bachelor's degree in Computer Science and Technology from the University of Jinan in 2024. He is currently pursuing a master's degree in computer technology at Xidian University in China.
 
 #### Email
-sli[at]cumt.edu.cn
+lihuisheng68@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Technology, Xidian University, 2024—2027 (expected).\
+B.E., Computer Science and Technology, University of Jinan, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Artificial Intelligence, IoT, Embedded System.
 
