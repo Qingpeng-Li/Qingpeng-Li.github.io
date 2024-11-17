@@ -7,8 +7,9 @@
 
 # Some Notes
 
-
 ## Introduction
+
+This website serves as my personal academic information site.
 
 This webpage is a fork of this [academic personal website template](https://github.com/senli1073/senli1073.github.io).
 
