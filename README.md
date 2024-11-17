@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This webpage is a fork of [the academic personal website template based on](https://github.com/senli1073/senli1073.github.io).
+This webpage is a fork of this [academic personal website template](https://github.com/senli1073/senli1073.github.io).
 
 ## License
 
