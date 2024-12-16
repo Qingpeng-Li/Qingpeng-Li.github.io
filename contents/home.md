@@ -8,8 +8,8 @@ He received his Bachelor's degree in Computer Science and Technology from the Un
 lihuisheng68@gmail.com
 
 #### Education
-M.E., Computer Technology, Xidian University, 2024—2027 (expected).\
-B.E., Computer Science and Technology, University of Jinan, 2020—2024.
+M.E., Computer Technology, Research Center for Trusted Artificial Intelligence Xidian University Supervisor: Professor [Hao Wang](https://faculty.xidian.edu.cn/WANGHAO/zh_CN/index/446795/list/index.htm), 2024—2027 (expected).\
+B.E., Computer Science and Technology, University of Jinan (Joint cultivation with Inspur Company), 2020—2024.
 
 #### Research Interests
 Artificial Intelligence, IoT, Embedded System.
