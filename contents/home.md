@@ -12,5 +12,5 @@ M.E., Computer Technology, Research Center for Trusted Artificial Intelligence, 
 B.E., Computer Science and Technology, University of Jinan (Joint cultivation with Inspur Company), 2020—2024.
 
 #### Research Interests
-Artificial Intelligence, IoT, Embedded System.
+Artificial Intelligence, Model Inference Acceleration, Model Compression, Embedded System.
 
